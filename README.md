@@ -1,4 +1,4 @@
-#Leaflet Challenge
+###Leaflet Challenge
 
 The purpose of the assignment is to visualize Earthquake data collected from the United States Geological Survey.
 
